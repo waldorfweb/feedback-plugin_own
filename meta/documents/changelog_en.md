@@ -1,5 +1,16 @@
 # Release Notes for Feedback
 
+## v4.0.4 (2021-07-05)
+
+### TODO
+
+- After updating the feedback plugin to v4.0.4, it is necessary to re-generate ShopBuilder widgets via the **Regenerate contents** button in the **CMS » ShopBuilder** menu.
+
+### Behoben
+
+- The use of multiple instances of the feedback widget for the single item view lead to errors. This has been fixed.
+- There was a visible error in the markup, when editing a feedback.
+
 ## v4.0.3 (2021-05-10)
 
 ### TODO
