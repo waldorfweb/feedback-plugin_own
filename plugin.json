@@ -2,8 +2,8 @@
     "version": "4.0.3",
     "name": "Feedback",
     "marketplaceName": {
-        "de": "Kunden-Feedback",
-        "en": "Customer feedback"
+        "de": "Kunden-Feedback - own",
+        "en": "Customer feedback - own"
     },
     "description": "This is the official feedback plugin developed by plentysystems.",
     "namespace": "Feedback",

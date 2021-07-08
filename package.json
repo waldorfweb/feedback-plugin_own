@@ -4,7 +4,7 @@
     "version": "4.0.3",
     "repository": {
         "type": "git",
-        "url": "https://github.com/plentymarkets/feedback-plugin.git"
+        "url": "https://github.com/waldorfweb/feedback-plugin_own.git"
     },
     "scripts": {
         "build": "npm run build:prod && npm run build:dev",
